@@ -89,3 +89,23 @@ __진하게__
     - 그 아래 목록
     - 그 아래 목록
   - 순서 없는 목록의 하위 목록 2
+ 
+한줄 코드는 `print('hello world')` 입니다.
+
+```python
+
+name = '김연지'
+print('hello')
+```
+
+| name  | 1  | 2 | 3 | 4 |
+|-------|----|---|---|---|
+| age   | 20 |   |   |   |
+|       |    |   |   |   |
+|       |    |   |   |   |
+
+[네이버로 가기](https://www.naver.com/)
+
+![고양이입니다](https://i.imgur.com/knCvaRQ.png)
+
+[![고양이입니다](https://i.imgur.com/knCvaRQ.png)](https://www.naver.com/)
