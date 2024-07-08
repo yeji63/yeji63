@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 🦾 Skills
 **🧑‍💻 Lang and Frameworks**
-<br>
+
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![java](https://img.shields.io/badge/java-ffffff.svg?&style=for-the-badge&logo=openjdk&logoColor=black)
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/apachehadoop-66CCFF.svg?&style=for-the-badge&logo=apachehadoop&logoColor=white) 
 
 **🛠️ Infra and Tools**
-<br>
+
 ![linux](https://img.shields.io/badge/linux-FCC624.svg?&style=for-the-badge&logo=linux&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white) 
